@@ -1,0 +1,229 @@
+body{
+    background-color: black;
+}
+.Team-Green{
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+    border: 5px solid black;
+}
+.Alpha-1 img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px 100px;
+}
+ul li{
+    display: inline-flex; 
+}
+.Team-Bravo{
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 15px 30px;
+    border-radius: 5px 5px;
+    margin-right: 60px;
+    margin-top: 35px;
+}
+.Team-Bravo:hover{
+    background-color: black;
+    color: white;
+}
+.Team-Black{
+    font-size: xx-large;
+    background-image: url(https://www.shutterstock.com/image-photo/musical-instruments-piano-keys-acoustic-600nw-562767919.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backface-visibility: visible;
+}
+.Alpha-2{
+    color: black;
+    margin-left: 50px;
+    border-bottom: 10px black double;
+    margin-right: 70%;
+    font-style: italic;
+    padding-top: 20px;
+}
+.Bravo-2{
+    color: antiquewhite;
+    font-family: algerian;
+    margin-left: 20px;
+}
+.Charlie-2{
+    text-align: center;
+    color: black;
+}
+.Delta-2{
+    text-align: center;
+    color: black;
+    font-style: italic;
+}
+.Team-Blue{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(211, 211, 211, 0.233);
+    padding: 20px 20px;
+    text-align: center;
+    font-size: larger;
+}
+.A{
+    color: burlywood;
+}
+.B{
+    color: burlywood;
+}
+.C{
+    color: burlywood;
+}
+.D{
+    color: burlywood;
+}
+.A-1{
+    color: darkgray;
+}
+.B-1{
+    color: darkgray;
+}
+.C-1{
+    color: darkgray;
+}
+.D-1{
+    color: darkgray;
+}
+.About{
+    background-image: url(https://www.shutterstock.com/image-photo/musical-instruments-piano-keys-acoustic-600nw-562767919.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backface-visibility: visible;
+}
+.k{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+.Q{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.mg{
+    width: 500px;
+    height: 300px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+}
+.ml{
+    font-size: 50px;
+    color: white;
+}
+.mk{
+    font-size: 30px;
+    color: burlywood;
+}
+.baby{
+    font-size: 30px;
+    color: black;
+    margin-top: -30px;
+}
+.mj{
+    font-size: 50px;
+    color: black;
+    padding-top: 30px;
+}
+.mh{
+    font-size: 30px;
+    color: burlywood;
+    padding-bottom: 50px;
+}
+.mq{
+    color: white;
+    font-size: 50px;
+}
+.Abo{
+    background-color: black;
+}
+.cha{
+    color: white;
+    font-size: 75px;
+    text-align: center;
+}
+.mt{
+    display: flex;
+    justify-content: space-between;
+}
+.id{
+    width: 600px;
+    height: 300px;
+}
+.ma{
+    font-size: 30px;
+    color: burlywood;
+    padding-top: -100000px;
+}
+.mo{
+    margin-top: 100px;
+    font-size: 50px;
+    color: white;
+}
+.lol{
+    font-size: 50px;
+    color: burlywood;
+    border: 10px double white;
+    background-image: url(https://www.shutterstock.com/image-photo/musical-instruments-piano-keys-acoustic-600nw-562767919.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backface-visibility: visible;
+}
+.form{
+    margin-left: 20px;
+}
+.Contacta{
+    text-align: center;
+}
+.input{
+    width: 500px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 10px 10px;
+}
+.input:hover{
+    background-color: burlywood;
+    border-color: yellow;
+}
+.inp{
+    width: 100px;
+    height: 30px;
+    margin-bottom: 50px;
+    background-color: burlywood;
+    color: black;
+    border-radius: 10px 10px;
+}    
+.popi{
+    width: 300px;
+    height: 300px;
+    padding-top: 60px;
+}
+.omg{
+    color: white;
+    font-size: 25px;
+}
+.qwe{
+    color: darkorange;
+    font-size: 25px;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+.div{
+    display: flex;
+    padding-bottom: 60px;
+}
+.popo{
+    display: flex;
+    justify-content: space-between;
+}
+.kakat{
+    color: white;
+    font-size: 75px;
+    font-style: italic;
+    text-align: center;
+}
